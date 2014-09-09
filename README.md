@@ -1,0 +1,4 @@
+Variables
+=========
+
+Computing work
