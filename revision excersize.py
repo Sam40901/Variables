@@ -11,4 +11,4 @@ number_answer = number_one + number_two + number_three + number_four
 
 print(number_answer)
 
-print("thank you for using this program, created by sam morley 15/9/2014")
+print("thank you for using this program created by sam morley 15/9/2014")
